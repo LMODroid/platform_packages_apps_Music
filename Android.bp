@@ -5,7 +5,7 @@ package {
 
 android_app {
     name: "Music",
-    srcs: ["src/**/*.java"],
+    srcs: ["kotlin/src/**/*.kt"],
     resource_dirs: ["kotlin/res"],
     sdk_version: "current",
     product_specific: true,
